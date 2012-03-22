@@ -1,0 +1,5 @@
+# Special image-related latex puke
+
+*.eps
+*.png
+!*.ps
